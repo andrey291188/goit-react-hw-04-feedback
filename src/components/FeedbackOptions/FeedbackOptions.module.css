@@ -1,0 +1,19 @@
+li{
+    list-style: none;
+}
+
+.list_button {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    gap: 20px
+}
+
+.item_button {
+    width: 100px;
+    height: 50px;
+    font-size: 21px;
+}
+
